@@ -49,14 +49,14 @@ To visualize data using Matplotlib and Seaborn libraries.
 
 ## output
     Histogram – Age Distribution
-     <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/ddd5e343-d3f3-4d57-b173-2081fc33594d" />
+ <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/ddd5e343-d3f3-4d57-b173-2081fc33594d" />
      
      Scatter Plot – Age vs Salary
-    <img width="689" height="440" alt="image" src="https://github.com/user-attachments/assets/730f2a69-9a50-4885-bf28-a28543160255" />
+  <img width="689" height="440" alt="image" src="https://github.com/user-attachments/assets/730f2a69-9a50-4885-bf28-a28543160255" />
     
     Box Plot – Salary Distribution
     
-    <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/66eded9c-08e3-4f3f-bce0-20639d75e86d" />
+   <img width="690" height="440" alt="image" src="https://github.com/user-attachments/assets/66eded9c-08e3-4f3f-bce0-20639d75e86d" />
     
 
 ## result
